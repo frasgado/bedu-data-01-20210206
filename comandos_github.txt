@@ -17,3 +17,7 @@
   48 git push -u origin main
   49 git push -u
 
+# PARA ACTUALIZAR REPOSITORIO DESDE .venv
+git add .
+git commit -m "Added virtual env folder to ignore file."
+git push -u origin main
