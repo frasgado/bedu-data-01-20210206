@@ -19,4 +19,5 @@ for s in salaries:
     print(f'{salary_tax:.2f}')
     print(f'{salary_tax:+.2f}')
     salary_tax2 = round(salary_tax)
-    print(salary_tax2)
+    print(f'Valor redondeado: {salary_tax2}')
+    print('---------------------------------')
